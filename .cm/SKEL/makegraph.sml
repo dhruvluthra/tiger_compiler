@@ -1,0 +1,2 @@
+Skeleton 5
+d2f5Cd"Int"d"List"d"Temp"d"String"d"Assem"Nad"MakeGraph"jh5Caä¢Graph"jè0gp1e"FuncGraph"aä¢Set"gp1d"IntBinarySet"ad"E"gp1d"ErrorMsg"ad"S"gp1d"Symbol"ad"Table"jÿgp1e"IntMapTable"Nh2aÿ=gp1c"FUNCGRAPH"aÿgp1c"ORD_SET"
